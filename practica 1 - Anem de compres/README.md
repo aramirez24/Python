@@ -32,14 +32,14 @@ Per calcular el preu final cal seguir els següents passos:
 
 ### Exemple 1
 **Dades introduïdes:**
-  12345678
-  1000
-  10
-  21
+12345678
+1000
+10
+21
 
 **Resultat:**
-  12345678
-  1110.0
+12345678
+1110.0
 
 ---
 
@@ -55,13 +55,13 @@ Has de fer un programa que calculi de forma automatitzada el NIF a partir del DN
 
 ### Exemples:
   Dona'm el DNI: 12345678
-  El NIF és 12345678Z
+El NIF és 12345678Z
   
   Dona'm el DNI: 87654321
-  El NIF és 87654321X
+El NIF és 87654321X
   
   Dona'm el DNI: 44444444
-  El NIF és 44444444A
+El NIF és 44444444A
 
 ---
 
