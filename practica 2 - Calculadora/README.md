@@ -15,7 +15,7 @@ El programa ha de:
   - `-` resta
   - `*` multiplicació
   - `/` divisió
-  - `%` mòdul
+  - `%` rest de la divisió
 - Mostrar el resultat de l'operació
 
 ---
