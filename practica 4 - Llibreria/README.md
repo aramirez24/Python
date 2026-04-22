@@ -59,7 +59,7 @@ Després de mostrar el catàleg, el programa ha de:
 - L’usuari tria una opció (número)
 - Afegir el producte seleccionat al total
 
-### 🧾 Finalització:
+### Finalització:
 
 - Quan l’usuari introdueix **0 (PAGAR)**:
   - El programa surt del bucle
