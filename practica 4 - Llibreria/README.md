@@ -14,12 +14,11 @@ El programa ha de demanar de forma continuada:
 - El **preu**
 
 ### Exemple:
-
-Llapis ........ 1.2
-Bolígraf ...... 3
-Quadern ...... 2.5
-Carpeta ...... 4.2
-Goma ......... 0.4
+Llapis ........ 1.2€
+Bolígraf ...... 3€
+Quadern ...... 2.5€
+Carpeta ...... 4.2€
+Goma ......... 0.4€
 
 
 ### Condicions per acabar la introducció:
